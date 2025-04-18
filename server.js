@@ -13,7 +13,6 @@ const app = express();
 
 app.use(express.json());
 app.use(bodyParser.json());
-const cors = require('cors');
 app.use(cors({
   origin: ['http://localhost:5173', 'https://cure-houzz.vercel.app'], // ✅ allow both dev and prod
   credentials: true,
