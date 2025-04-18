@@ -1,0 +1,47 @@
+[
+  {
+    "id": "80962155-0230-41d0-9f48-4c80062eb1de",
+    "firstName": "Aanu",
+    "lastName": "Sai",
+    "specialization": "Cardio",
+    "hospitalName": "WSX",
+    "dob": "2003-03-03",
+    "phone": "1111111111",
+    "email": "anandsai2004@gmail.com",
+    "experience": "1",
+    "password": "$2b$10$kgsxZ4ujpy0hxX9a17o1teuZJ2Z0YGUzSWyEsOMLCAU9C96QL7/nO",
+    "role": "doctor",
+    "verified": true,
+    "createdAt": "2025-03-16T11:41:35.564Z"
+  },
+  {
+    "id": "602f4521-5f4c-40b4-9c62-97db4ae39e69",
+    "firstName": "Anand",
+    "lastName": "Lattala",
+    "specialization": "ABC",
+    "hospitalName": "Nanda",
+    "dob": "2005-03-31",
+    "phone": "09110388960",
+    "email": "alattala@gitam.in",
+    "experience": "2",
+    "password": "$2b$10$1M52ntbvMe90SIilwLINzO8sCSgWgTr7Vaf0MA771NLlRVZAuPWf2",
+    "role": "doctor",
+    "verified": true,
+    "createdAt": "2025-03-17T04:46:14.269Z"
+  },
+  {
+    "id": "2bba82ab-fa33-4c99-a0c9-3a5fcbcd53d3",
+    "firstName": "Vivek",
+    "lastName": "tata",
+    "specialization": "ABCD",
+    "hospitalName": "EFGH",
+    "dob": "2004-09-28",
+    "phone": "09110388960",
+    "email": "saivivek2809@gmail.com",
+    "experience": "3",
+    "password": "$2b$10$haMi/71y09/p/Ho/JrVVd.35/EU63CZ87IfidQuyNsUtV6rGHxidG",
+    "role": "doctor",
+    "verified": true,
+    "createdAt": "2025-03-18T09:00:35.777Z"
+  }
+]

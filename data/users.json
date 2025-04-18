@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nandan Chilaka",
+    "email": "alattala@gitam.in",
+    "password": "$2b$10$3tO5cZ5TcbdV9vNwNZ9ZWOrHVL1uGttnNly0lqg0fOfoQi.Fp1JM6",
+    "photo": "",
+    "role": "patient",
+    "gender": "male",
+    "dob": "2004-03-03",
+    "age": 21,
+    "phone": "9110388960",
+    "verified": true
+  },
+  {
+    "name": "Vivek",
+    "email": "saivivek2809@gmail.com",
+    "password": "$2b$10$Qsy1AZHjCsB0qMyH/h9qz.H8uPrgrAyon/xG52oarqZ1DfEJTgr0m",
+    "photo": "",
+    "role": "patient",
+    "gender": "female",
+    "dob": "2000-06-03",
+    "age": 25,
+    "phone": "09110388960",
+    "verified": true
+  }
+]
