@@ -13,7 +13,12 @@ const app = express();
 
 app.use(express.json());
 app.use(bodyParser.json());
-app.use(cors({ origin: "http://localhost:5173", credentials: true }));
+const cors = require('cors');
+app.use(cors({
+  origin: ['http://localhost:5173', 'https://cure-houzz.vercel.app'], // ✅ allow both dev and prod
+  credentials: true,
+}));
+
 app.use(session({ secret: "your_secret", resave: false, saveUninitialized: true }));
 app.use(passport.initialize());
 app.use(passport.session());
